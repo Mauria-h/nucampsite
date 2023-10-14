@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Mauria-h/nucampsite#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.0",
     "parcel": "^2.10.0"
   },
   "dependencies": {
